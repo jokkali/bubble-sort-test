@@ -9,7 +9,9 @@ int main()
 	*buffer = 0;
 	int* AmountOfSortedElements = new int;
 	*AmountOfSortedElements = 0;
-    std::vector <int> NumArray = {91823,1978,72,98,111,273,2,6,9,12,81,37,871,8937,9,0,1,87};
+        //array to sort
+	std::vector <int> NumArray = {91823,1978,72,98,111,273,2,6,9,12,81,37,871,8937,9,0,1,87};
+	
 	
 	
 	//sort algorithm
